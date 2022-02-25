@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: auto;
+    width: 100vw;
+    background-color: #f4f3fd;
+}
+img{
+    height: 100px;
+    width: 200px;
+}
+.btn-src{
+    margin: 0.25rem;
+    padding: 2px 10px;
+    border: 1px solid #366efd;
+    color: #366efd;
+    background-color: #fff;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.btn-src:hover{
+    background-color: #366efd;
+    color: #fff;
+}
+.all{
+    background-color: #366efd;
+    color: #fff;
+    margin: 0.25rem;
+    padding: 2px 10px;
+    border: 1px solid #366efd;
+    border-radius: 3px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+.flag{
+    height: 2rem;
+    width: 3rem;
+}
+.ccard{
+    background-color: #fff;
+    height: auto;
+    color: #5f5f5f8e;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+.title{
+    color: black;
+}
